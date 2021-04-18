@@ -122,3 +122,4 @@ set hidden
 set nobackup
 set nowritebackup
 hi CocFloating ctermbg=8
+"TEST
